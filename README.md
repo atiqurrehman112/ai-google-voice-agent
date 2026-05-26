@@ -24,7 +24,7 @@ The project demonstrates:
 
 ## Demo Preview
 
-![Demo](screenshots/demo.gif)
+![Demo](screenshots/demo.gif.webm )
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
