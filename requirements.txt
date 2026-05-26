@@ -1,0 +1,13 @@
+streamlit
+pyautogui
+pandas
+python-dotenv
+groq
+edge-tts
+SpeechRecognition
+playsound==1.2.2
+pyperclip
+requests
+sounddevice
+soundfile
+numpy

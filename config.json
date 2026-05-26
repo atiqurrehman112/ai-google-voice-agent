@@ -1,0 +1,23 @@
+{
+  "number_input": {
+    "x": 1582,
+    "y": 252
+  },
+  "call_button": {
+    "x": 1852,
+    "y": 270
+  },
+  "end_call_button": {
+    "x": 1748,
+    "y": 961
+  },
+  "keypad_clear": {
+    "x": 1633,
+    "y": 250
+  },
+  "pyautogui_pause": 0.2,
+  "selected_input_device": null,
+  "selected_output_device": null,
+  "recording_seconds": 5,
+  "tts_voice": "en-US-AriaNeural"
+}
